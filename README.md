@@ -2,7 +2,7 @@ Oi, eu me chamo Thiago, ainda estou no 1° semestre de engenharia de software
 pelo IESB, então ainda sou iniciante nesse mundo da programação, mas sempre
 dando o meu melhor para aprender e viver coisas novas.
 
-🦄 Linguagens: Atualmente estou no básico de pythom
+🦄 Linguagens: Atualmente estou no básico de Python
 
 💼 Ferramentas: Pycharm
 
