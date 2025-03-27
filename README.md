@@ -1,4 +1,4 @@
-# My-Portfolio
+# Profile
 Hi, my name is Thiago, I'm in college studying software engineering at IESB, so I'm still a beginner in this world of programming, but I'm always doing my best to learn and experience new things.
 🦄 Languages: I'm currently learning basic python
 💼 Tools: Pycharm
