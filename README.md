@@ -3,6 +3,7 @@ Hi, my name is Thiago, I'm in college studying software engineering at IESB, so 
 🦄 Languages: I'm currently learning basic python
 💼 Tools: Pycharm
 💌 If you want to get in touch, these are my networks ⤵️
+
 E-mail: tlv301230@gmail.com
 LinkedIn: https://www.linkedin.com/in/thiago-domingos-441231348/
 
