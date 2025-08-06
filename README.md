@@ -14,6 +14,7 @@ LinkedIn: https://www.linkedin.com/in/thiago-domingos-441231348/
 Oi, eu me chamo Thiago, faço faculdade de engenharia de software pelo IESB, então ainda sou iniciante nesse mundo da programação, mas sempre dando o meu melhor para aprender e viver coisas novas.
 
 🦄 Linguagens: HTML, CSS, Python, SQL
+
 💼 Ferramentas: Pycharm. XAAMP, VsCode, MySQL
 
 💌 Caso queram entrar em contato, estas são as minhas redes ⤵️
