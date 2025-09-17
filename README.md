@@ -1,3 +1,4 @@
+# PERFIL
 Oi, eu me chamo Thiago, faço faculdade de engenharia de software pelo IESB, então ainda sou iniciante nesse mundo da programação, mas sempre dando o meu melhor para aprender e viver coisas novas.
 
 🦄 Linguagens: HTML, CSS, Python, SQL
@@ -10,7 +11,7 @@ E-mail: tlv301230@gmail.com
 LinkedIn: https://www.linkedin.com/in/thiago-domingos-441231348/
 
 
-# Profile
+## PROFILE
 Hi, my name is Thiago, I'm in college studying software engineering at IESB, so I'm still a beginner in this world of programming, but I'm always doing my best to learn and experience new things.
 
 🦄 Languages: HTML, CSS, Python, SQL
