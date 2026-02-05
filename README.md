@@ -1,9 +1,9 @@
 # PERFIL
-Oi, eu me chamo Thiago, faço faculdade de engenharia de software pelo IESB, então ainda sou iniciante nesse mundo da programação, mas sempre dando o meu melhor para aprender e viver coisas novas.
+Oi, eu me chamo Thiago, faço faculdade de engenharia de software pelo IESB, sempre dando o meu melhor para aprender e viver coisas novas.
 
-🦄 Linguagens: HTML, CSS, Python, SQL
+🦄 Linguagens: HTML, CSS, JS, PHP, PYTHON
 
-💼 Ferramentas: Pycharm. XAAMP, VsCode, MySQL
+💼 Ferramentas: Pycharm. XAAMP, VsCode,
 
 💌 Caso queram entrar em contato, estas são as minhas redes ⤵️
 
@@ -12,11 +12,11 @@ LinkedIn: https://www.linkedin.com/in/thiago-domingos-441231348/
 
 
 ## PROFILE
-Hi, my name is Thiago, I'm in college studying software engineering at IESB, so I'm still a beginner in this world of programming, but I'm always doing my best to learn and experience new things.
+Hi, my name is Thiago, I'm in college studying software engineering at IESB, I'm always doing my best to learn and experience new things.
 
-🦄 Languages: HTML, CSS, Python, SQL
+🦄 Languages: HTML, CSS, JS, PHP, PYTHON
 
-💼 Tools: Pycharm, XAAMP, VsCode, MySQL
+💼 Tools: Pycharm, XAAMP, VsCode,
 
 💌 If you want to get in touch, these are my networks ⤵️
 
